@@ -12,11 +12,11 @@ Pet Noticias es un blog interactivo diseñado para amantes de las mascotas que d
 - Gestión de errores: Página de error 404 personalizada para manejar la navegación a URLs inexistentes.
 - Diseño responsivo: Compatible con dispositivos móviles, garantizando una experiencia de usuario óptima en cualquier dispositivo.
 
-  <h3>Tecnologías Utilizadas</h3>
+<h3>Tecnologías Utilizadas</h3>
 
-  - Frontend: React.js, JavaScript, HTML, CSS.
-  - Backend: Node.js, Express (API construida para interactuar con la base de datos).
-  - Otras herramientas: Axios para las solicitudes HTTP, React Router para la gestión de rutas.
+- Frontend: React.js, JavaScript, HTML, CSS.
+- Backend: Node.js, Express (API construida para interactuar con la base de datos).
+- Otras herramientas: Axios para las solicitudes HTTP, React Router para la gestión de rutas.
 
   <h2>Agradecimientos</h2>
   
