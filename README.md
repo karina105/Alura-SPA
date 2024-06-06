@@ -1,3 +1,29 @@
+<h1>Proyecto Pet Noticias</h1>
+
+<h3>Descripción</h3>
+
+Pet Noticias es un blog interactivo diseñado para amantes de las mascotas que desean mantenerse informados sobre las últimas noticias, artículos y consejos para el cuidado de sus animales. Esta aplicación web permite a los usuarios explorar diferentes categorías de publicaciones, leer artículos detallados y navegar por subcategorías específicas.
+
+<h3>Características</h3>
+
+- Navegación intuitiva: Interfaz de usuario amigable con un menú de navegación claro para explorar diversas secciones del blog.
+- Categorías y Subcategorías: Organiza el contenido en categorías y subcategorías para facilitar la búsqueda de temas específicos.
+- Lectura de artículos: Los usuarios pueden leer artículos completos, con títulos, descripciones y contenido detallado.
+- Gestión de errores: Página de error 404 personalizada para manejar la navegación a URLs inexistentes.
+- Diseño responsivo: Compatible con dispositivos móviles, garantizando una experiencia de usuario óptima en cualquier dispositivo.
+
+  <h3>Tecnologías Utilizadas</h3>
+
+  - Frontend: React.js, JavaScript, HTML, CSS.
+  - Backend: Node.js, Express (API construida para interactuar con la base de datos).
+  - Otras herramientas: Axios para las solicitudes HTTP, React Router para la gestión de rutas.
+
+  <h2>Agradecimientos</h2>
+  
+  Gracias a [Harland Lohora / Alura Latam] por su ayuda y soporte.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
